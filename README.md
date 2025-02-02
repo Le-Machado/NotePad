@@ -1,2 +1,3 @@
-# projetostk
-Criado para playground do grupo de estudos sobre a StackSpot.
+# NotePad
+
+Este é o meu caderno de anotações de estudos de programação.
