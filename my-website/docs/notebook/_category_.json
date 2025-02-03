@@ -1,0 +1,8 @@
+{
+  "label": "My Notes",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This is where I write down thourghts, learning notes, and other things that I want to remember."
+    }
+}
